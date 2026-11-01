@@ -1,0 +1,38 @@
+{
+  "title": "Bisma | Personal Portfolio",
+  "styles": {
+    "bgColor": "green.400",
+    "textColor": "white",
+    "hoverBgColor": "green.500",
+    "height": "40px",
+    "paddingX": 2,
+    "paddingY": 0
+  },
+  "navItems": [
+    {
+      "label": "Home",
+      "path": "/",
+      "icon": null
+    },
+    {
+      "label": "Education", 
+      "path": "/education",
+      "icon": null
+    },
+    {
+      "label": "Experience",
+      "path": "/experience", 
+      "icon": null
+    },
+    {
+      "label": "Contact",
+      "path": "/contact",
+      "icon": null
+    },
+    {
+      "label": "Projects ",
+      "path": "/projects",
+      "icon": null
+    }
+  ]
+}

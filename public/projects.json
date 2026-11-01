@@ -1,0 +1,22 @@
+{
+  "pageTitle": "My Projects",
+  "pageSubtitle": "Some of my favorite work so far",
+  "projects": [
+    {
+      "id": 1,
+      "title": "Portfolio Website",
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "techStack": ["React", "Chakra UI", "JavaScript"],
+      "link": "https://github.com/Bisma1610/portfolio",
+      "image": "/project1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Data Analysis Project",
+      "description": "Analyzing datasets and visualizing patterns using Python.",
+      "techStack": ["Python", "Pandas", "Matplotlib"],
+      "link": "https://github.com/Bisma1610/Data-structure",
+      "image": "/project2.jpg"
+    }
+  ]
+}

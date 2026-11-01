@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "name": "Bisma",
+    "description": "As a data analyst, I enjoy exploring data patterns and developing web applications. I love turning curiosity into real-world solutions. I’m a third-year Computer Science student, eager to carve out a career where I can innovate and continuously learn.",
+    "buttons": [
+      { "text": "View Projects", "type": "solid", "link": "/projects" },
+      { "text": "Contact Me", "type": "outline", "link": "mailto:bismaa0029@gmail.com" }
+    ]
+  },
+  "skills": [
+    "C Programming",
+    "Java",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Chakra UI"
+  ]
+}

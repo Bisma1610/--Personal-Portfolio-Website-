@@ -1,0 +1,21 @@
+{
+  "title": "Get in Touch",
+  "socialLinks": [
+    {
+      "platform": "Email",
+      "url": "mailto:bismaa0029@gmail.com",
+      "icon": "FaRegEnvelope"
+    },
+    {
+      "platform": "GitHub", 
+      "url": "https://github.com/Bisma1610",
+      "icon": "FaGithub"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/bisma._.2191",
+      "icon": "FaInstagram"
+    }
+  ],
+  "copyright": "© 2025 Bisma. All rights reserved."
+}

@@ -1,0 +1,13 @@
+{"buttons": [
+    {
+      "text": "Contact Me",
+      "link": "mailto:bismaa0029@gmail.com",
+      "type": "solid"
+    },
+    {
+      "text": "View Project",
+      "link": "/projects",
+      "type": "solid"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "pageTitle": "Education",
+  "pageSubtitle": "My academic journey in Computer Science",
+  "education": [
+    {
+      "id": 1,
+      "institution": "NFC Institute of Engineering & Technology (NFC IET)",
+      "degree": "Bachelor of Science in Computer Science",
+      "field": "Computer Science",
+      "duration": "2023 - 2027",
+      "location": "Multan, Pakistan",
+      "description": "Currently pursuing a BS in Computer Science with focus on software development, data analysis, and web technologies. Gaining hands-on experience in programming, algorithms, and modern development frameworks.",
+      "courses": [
+        "Programming Fundamentals",
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming",
+        "Database Systems",
+        "Web Development",
+        "Software Engineering",
+        "Computer Networks",
+        "Artificial Intelligence"
+      ],
+      "achievements": [
+        "Maintaining excellent academic record",
+        "Active participant in coding competitions",
+        "Member of Computer Science Society"
+      ]
+    },
+    {
+      "id": 2,
+      "institution": "Nishat Science College",
+      "degree": "Intermediate in Computer Science (ICS)",
+      "field": "Computer Science",
+      "duration": "2021 - 2023",
+      "location": "Multan, Pakistan",
+      "description": "Completed Intermediate in Computer Science with distinction. Built strong foundation in programming, mathematics, and computer fundamentals that prepared me for university-level studies.",
+      "courses": [
+        "Computer Science",
+        "Mathematics",
+        "Physics",
+        "English",
+        "Pakistan Studies",
+        "Islamiat"
+      ],
+      "achievements": [
+        "Distinction in Board Examinations",
+        "Top 5% in Computer Science",
+        "Active in college tech club"
+      ]
+    },
+    {
+      "id": 3,
+      "institution": "Nishat High School",
+      "degree": "Matriculation in Science",
+      "field": "Science",
+      "duration": "2019 - 2021",
+      "location": "Multan, Pakistan",
+      "description": "Completed Matriculation with Science subjects. Developed initial interest in technology and programming through introductory computer courses.",
+      "courses": [
+        "Mathematics",
+        "Physics",
+        "Computer Studies",
+        "Chemistry",
+        "Biology",
+        "English",
+        "Urdu"
+      ],
+      "achievements": [
+        "Excellent academic performance",
+        "Participated in science exhibitions",
+        "Developed first programming projects"
+      ]
+    }
+  ]
+}

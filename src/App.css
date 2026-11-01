@@ -1,0 +1,99 @@
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-padding-top: 60px; /* Add scroll padding for fixed header */
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-color: #ffffff;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Fix for fixed header */
+#root {
+  padding-top: 80px !important; /* Add padding for fixed header */
+}
+
+/* Header-specific styles (if not using Chakra UI for everything) */
+header {
+/* Force header to be fixed */
+header {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  z-index: 1000 !important;
+}
+
+/* Prevent any transform on parent elements */
+* {
+  transform: none !important;
+}
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* Additional responsive fixes */
+@media (max-width: 768px) {
+  #root {
+    padding: 1rem;
+    padding-top: 70px !important; /* Adjust for smaller screens */
+  }
+  
+  header {
+    padding: 4px 8px;
+  }
+}

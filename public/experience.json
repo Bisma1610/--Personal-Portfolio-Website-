@@ -1,0 +1,36 @@
+{
+  "pageTitle": "Experience",
+  "pageSubtitle": "My professional journey and internships",
+  "experiences": [
+    {
+      "id": 1,
+      "role": "Research Analyst (Part-Time, Remote)",
+      "company": "WebAm Media",
+      "duration": "Currently Working",
+      "description": "Working as a Research Analyst at WebAm Media, where I conduct in-depth research on police-related cases across the United States. My responsibilities include identifying relevant incidents, collecting accurate case details, and professionally communicating with U.S. police departments via email to request body-worn camera footage under public records and FOIA guidelines. This role has strengthened my research accuracy, documentation practices, and professional communication skills while working remotely.",
+      "techStack": [
+        "Online Research",
+        "Data Collection",
+        "Email Communication",
+        "FOIA Requests",
+        "Documentation",
+        "Attention to Detail"
+      ]
+    },
+    {
+      "id": 2,
+      "role": "Data Analyst Intern",
+      "company": "IAG Soft, Multan",
+      "duration": "Summer 2024 (2 Months)",
+      "description": "Worked as a Data Analyst Intern at IAG Soft, where I assisted in analyzing structured datasets to extract meaningful insights for business decision-making. I performed data cleaning, exploratory data analysis, and basic visualization to identify trends and patterns. This internship enhanced my understanding of real-world data workflows, improved my analytical thinking, and strengthened my ability to work with data-driven solutions in a professional environment.",
+      "techStack": [
+        "Python",
+        "Pandas",
+        "Data Cleaning",
+        "Exploratory Data Analysis",
+        "Data Visualization",
+        "Problem Solving"
+      ]
+    }
+  ]
+}
